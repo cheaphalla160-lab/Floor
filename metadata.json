@@ -1,0 +1,6 @@
+{
+  "name": "Floors & Treasures: Costume and Film Quest",
+  "description": "An interactive primary school English learning game where students search for costume and film on the second and third floor, practice read-aloud sentences with speech feedback, and compete on the classroom leaderboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
